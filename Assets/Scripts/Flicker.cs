@@ -6,9 +6,9 @@ public class Flicker : MoveObject
 {
 	//--------------------------------------------------
 	// Variables
-	private readonly Vector3 kNeutral	= Vector3.zero;			// ニュートラル
-	private readonly Vector3 kLeft		= new Vector3(-1f, 0f);	// 左
-	private readonly Vector3 kRight		= new Vector3(1f, 0f);	// 右
+	private readonly Vector3 kNeutral_	= Vector3.zero;			// ニュートラル
+	private readonly Vector3 kLeft_		= new Vector3(-1f, 0f);	// 左
+	private readonly Vector3 kRight_	= new Vector3(1f, 0f);	// 右
 
 	//--------------------------------------------------
 	// Functions

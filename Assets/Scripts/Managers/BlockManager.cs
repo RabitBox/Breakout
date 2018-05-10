@@ -10,7 +10,7 @@ public class BlockManager : MonoBehaviourSingleton<BlockManager>
 {
 	//--------------------------------------------------
 	// Variables
-	private List<GameObject> blocks_;
+	private List<GameObject> blocks_ = new List<GameObject>();
 
 	//--------------------------------------------------
 	// Functions
