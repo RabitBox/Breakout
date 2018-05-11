@@ -21,8 +21,8 @@ GameObject:
   - component: {fileID: 224094359938086130}
   - component: {fileID: 222786160306603076}
   - component: {fileID: 114900917310239088}
-  - component: {fileID: 50037447879571656}
   - component: {fileID: 61915809985430594}
+  - component: {fileID: 50037447879571656}
   - component: {fileID: 114100963643001594}
   m_Layer: 5
   m_Name: Flicker

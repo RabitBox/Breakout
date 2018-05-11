@@ -21,8 +21,8 @@ GameObject:
   - component: {fileID: 224306907170416788}
   - component: {fileID: 222349443452321398}
   - component: {fileID: 114490111795776586}
-  - component: {fileID: 50927869905230132}
   - component: {fileID: 58338542784916314}
+  - component: {fileID: 50927869905230132}
   - component: {fileID: 82265509275091588}
   - component: {fileID: 114393328080919028}
   m_Layer: 5
