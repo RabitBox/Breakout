@@ -235,11 +235,16 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\Ball.cs" />
     <Compile Include="Assets\Scripts\Bases\MonoBehaviourSingleton.cs" />
     <Compile Include="Assets\Scripts\Bases\MoveObject.cs" />
     <Compile Include="Assets\Scripts\Flicker.cs" />
     <Compile Include="Assets\Scripts\Managers\BlockManager.cs" />
     <Compile Include="Assets\Scripts\PlayerParameter.cs" />
+    <Compile Include="Assets\Scripts\UIText.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\Resources\Resource.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />

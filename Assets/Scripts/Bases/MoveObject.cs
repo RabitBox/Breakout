@@ -9,8 +9,10 @@ public class MoveObject : MonoBehaviour
 {
 	//--------------------------------------------------
 	// Variables
-	protected float move_speed_;	// 移動速度
+	[SerializeField]
+	protected float default_move_speed_;    // 初期移動速度
+	[SerializeField]
+	protected float move_speed_;            // 移動速度
 
-	//--------------------------------------------------
-	// Functions
+	protected Rigidbody2D rigidbody_;		// リジッドボディ
 }
